@@ -1,2 +1,2 @@
-# newproject1
+# Newproject1
 This is sample Repo
